@@ -1,5 +1,38 @@
- 💫 About Me:
-## Hi there 👋 </br><br><br>I'm **David Washington Kamau**, an aspiring Software Engineer and Cloud Technologist passionate about building practical, user-focused digital solutions for real-world problems.</br><br> 🌱 I’m currently learning advanced cloud technologies (AWS), Laravel, and improving my software architecture skills. <br><br>- 👯 I’m looking to collaborate on web applications, open-source tools for African businesses, and cloud-native projects. <br><br>- 🤔 I’m looking for help with scaling Laravel/PHP apps on AWS and CI/CD best practices. </br><br> 💬 Ask me about web development, cloud computing, technical support, and information systems. </br><br>- 📫 How to reach me: [david.washington.kamau@gmail.com](mailto:david.washington.kamau@gmail.com)</br><br> “Build solutions that matter—one script, one system, one server at a time.”
+# 💫 About Me
+
+## Hi there 👋  
+I'm **David Washington Kamau** — an aspiring **Software Engineer** and **Cloud Technologist** dedicated to crafting user-centric digital solutions that solve real-world challenges.
+
+---
+
+### 🚀 What I'm Working On
+- 🌱 Deepening my expertise in **advanced AWS services**, **Laravel**, and **software architecture**.
+- 🛠 Exploring ways to build scalable, cloud-native applications.
+- 🧠 Continuously learning and contributing to open-source tools tailored for **African businesses**.
+
+---
+
+### 🤝 Let’s Collaborate
+I’m excited to collaborate on:
+- 🧩 Web applications that drive impact
+- 🌍 Open-source projects for local or global communities
+- ☁️ Cloud-native solutions with real business value
+
+---
+
+### 💡 Open to Guidance
+I’m currently seeking insights on:
+- 🚀 **Scaling Laravel/PHP applications on AWS**
+- 🔄 **Best practices in CI/CD pipelines**
+
+---
+
+### 📬 Let's Connect  
+📧 **Email:** [david.washington.kamau@gmail.com](mailto:david.washington.kamau@gmail.com)  
+🌐 **Motto:** _“Build solutions that matter—one script, one system, one server at a time.”_
+
+---
+
 
 
 ## 🌐 Socials:
