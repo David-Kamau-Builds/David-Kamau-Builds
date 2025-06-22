@@ -1,12 +1,10 @@
-# 💫 About Me
-
 ## Hi there 👋  
 I'm **David Washington Kamau** — an aspiring **Software Engineer** and **Cloud Technologist** dedicated to crafting user-centric digital solutions that solve real-world challenges.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🌱 Deepening my expertise in **advanced AWS services**, **Laravel**, and **software architecture**.
+- 🌱 Deepening my expertise in **advanced AWS services**, **Java**, and **software architecture**.
 - 🛠 Exploring ways to build scalable, cloud-native applications.
 - 🧠 Continuously learning and contributing to open-source tools tailored for **African businesses**.
 
@@ -15,14 +13,14 @@ I'm **David Washington Kamau** — an aspiring **Software Engineer** and **Cloud
 ### 🤝 Let’s Collaborate
 I’m excited to collaborate on:
 - 🧩 Web applications that drive impact
-- 🌍 Open-source projects for local or global communities
+- 🌍 Open-source projects
 - ☁️ Cloud-native solutions with real business value
 
 ---
 
 ### 💡 Open to Guidance
 I’m currently seeking insights on:
-- 🚀 **Scaling Laravel/PHP applications on AWS**
+- 🚀 **Scaling Java applications on AWS**
 - 🔄 **Best practices in CI/CD pipelines**
 
 ---
