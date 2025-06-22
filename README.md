@@ -31,14 +31,13 @@ I’m currently seeking insights on:
 
 ---
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kamau-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=David-Kamau-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://nirzak-streak-stats.vercel.app/?user=David-Kamau-Builds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kamau-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/davidwashingtonkamau) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.washington.kamau@gmail.com) 
 
 
 ### ✍️ Random Dev Quote
