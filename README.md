@@ -3,13 +3,6 @@ I'm **David Washington Kamau** — an aspiring **Software Engineer** and **Cloud
 
 ---
 
-### 🚀 What I'm Working On
-- 🌱 Deepening my expertise in **advanced AWS services**, **Java**, and **software architecture**.
-- 🛠 Exploring ways to build scalable, cloud-native applications.
-- 🧠 Continuously learning and contributing to open-source tools tailored for **African businesses**.
-
----
-
 ### 🤝 Let’s Collaborate
 I’m excited to collaborate on:
 - 🧩 Web applications that drive impact
@@ -18,23 +11,8 @@ I’m excited to collaborate on:
 
 ---
 
-### 💡 Open to Guidance
-I’m currently seeking insights on:
-- 🚀 **Scaling Java applications on AWS**
-- 🔄 **Best practices in CI/CD pipelines**
-
----
-
 ### 📬 Let's Connect  
 📧 **Email:** [david.washington.kamau@gmail.com](mailto:david.washington.kamau@gmail.com)  
 🌐 **Motto:** _“Build solutions that matter—one script, one system, one server at a time.”_
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Kamau-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=David-Kamau-Builds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kamau-Builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
